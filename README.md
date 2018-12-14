@@ -3,11 +3,11 @@ Ejemplo simple de Dockerfile
 
 # Pasos para construir esta imagen
 
-docker build -t mi-primer-docker-file:1.0 .
+$ docker build -t mi-primer-docker-file:1.0 .
 
 # Pasos para correr esta imagen
 
- docker run -p 4000:80 mi-primer-docker-file:1.0
+$ docker run -p 4000:80 mi-primer-docker-file:1.0
  
  # ¿Cómo pruebo que haya corrido?
  
