@@ -12,5 +12,4 @@ docker build -t mi-primer-docker-file:1.0 .
  # ¿Cómo pruebo que haya corrido?
  
  El aplicación debe estar disponible en el puerto 4000
- 
- [!app](https://docs.docker.com/get-started/images/app-in-browser.png)
+ [![Foo](https://docs.docker.com/get-started/images/app-in-browser.png)](https://docs.docker.com/get-started/images/app-in-browser.png)
