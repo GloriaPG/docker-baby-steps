@@ -13,4 +13,4 @@ docker build -t mi-primer-docker-file:1.0 .
  
  El aplicación debe estar disponible en el puerto 4000
  
- [![app](https://docs.docker.com/get-started/images/app-in-browser.png)
+ [!app](https://docs.docker.com/get-started/images/app-in-browser.png)
